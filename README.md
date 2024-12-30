@@ -1,6 +1,8 @@
 
 CAFETERIA MANAGEMENT AND BILLING SYSTEM
 
+![image_alt](https://github.com/sivaharitha-s/cafeteria_management_and_billing_system/blob/109bb87045e38e2775a93d52fe5a944d6a14d61e/Screenshot%202024-12-30%20185041.png)
+
 
 OVERVIEW:
 
