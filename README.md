@@ -37,5 +37,6 @@ ORDER HISTORY:
 *Maintain detailed records of orders, including the customer ID, ordered items, and the total amount.
 
 ![image_alt](https://github.com/sivaharitha-s/cafeteria_management_and_billing_system/blob/109bb87045e38e2775a93d52fe5a944d6a14d61e/Screenshot%202024-12-30%20185041.png)
+
 ![image_alt](https://github.com/sivaharitha-s/cafeteria_management_and_billing_system/blob/52281bdf29810aa06bfcd4931ee1f741a0f493dd/Screenshot%202024-12-30%20185108.png)
 
